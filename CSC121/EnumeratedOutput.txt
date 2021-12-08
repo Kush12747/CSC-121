@@ -1,0 +1,7 @@
+My size is: 20
+Your size is: 22
+Her size is: 21
+His size is: 10
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 23908) exited with code 0.
+Press any key to close this window . . .

@@ -1,0 +1,13 @@
+        Enter Weekly Sales: 32000
+
+        Total Sales:                     $32000.00
+        Gross Pay (8%):                  $2560.00
+        Federal tax paid:                $409.60
+        Social srcurity paid:            $153.60
+        Retirement contribution:         $204.80
+        Total deductions:                $768.00
+        Take home pay:                   $1792.00
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 17664) exited with code 0.
+Press any key to close this window . . .
+

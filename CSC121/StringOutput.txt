@@ -1,0 +1,35 @@
+
+Please enter the values for the following variables...
+Enter the ID: 555
+Enter the full name: Kush Gandhi
+Enter the gpa: 3.56
+
+Here are the values entered
+Student ID      555
+Student name    Kush Gandhi
+Length of the stuent name is:   11
+Student GPA:    3.56
+
+Student first name:                     Kush
+Student last name:                      Gandhi
+My sister's name        Kush
+Using concentration to get full name:   Kush Gandhi
+Before swap:
+ first: One
+ second:two
+
+
+After swap:
+ first: two
+ second: One
+
+
+After swap:
+ first Kush
+ fname: two
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 18824) exited with code 0.
+Press any key to close this window . . .
+
+
+

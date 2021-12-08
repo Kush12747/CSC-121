@@ -1,0 +1,26 @@
+Please enter the label information:
+Jack
+Larry
+50046
+Jack    Larry
+50046
+
+Kush    Gandhi
+60074
+
+Ben     Noble
+99999
+Please enter the label information:
+John
+Smith
+80046
+John    Smith
+80046
+
+
+ object destroyed
+
+ object destroyed
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 12148) exited with code 0.
+Press any key to close this window . . .

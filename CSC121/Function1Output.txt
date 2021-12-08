@@ -1,0 +1,6 @@
+
+Function that does something
+
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 11052) exited with code 0.
+Press any key to close this window . . .

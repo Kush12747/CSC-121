@@ -1,0 +1,30 @@
+
+STUDENT INFORMATION
+
+First Name:     John
+Last Name:      Smith
+ID:             555
+GPA:            3.54
+Hair Size:      3.6e-08
+Grade:          C
+Tuituion Paid:  1
+
+STUDENT INFORMATION
+
+First Name:     John is stored at location 0113FC98
+Last Name:      Smith is stored at location 0113FC74
+ID:             555 is stored at location 0113FC68
+GPA:            3.54 is stored at location 0113FC5C
+Hair Size:      3.6e-08 is stored at location 0113FC4C
+Grade:          C is stored at location C╠╠╠╠╠╠╠╠g▒+e═Sc>╠╠╠╠╠╠╠╠\Åb@╠╠╠╠╠╠╠╠+☻
+Tuition Paid:   1 is stored at location 0113FC37
+
+Integer size is:        4 bytes
+Short size is:          2 bytes
+Long size is:           4 bytes
+Double size is:         8 bytes
+Character size is:      1 bytes
+Bool size is:           1 bytes
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 11996) exited with code 0.
+Press any key to close this window . . .

@@ -1,0 +1,27 @@
+Enter an integer: 21
+Enter an integer: 21
+Enter an integer: 00
+Enter an integer: 105
+Enter an integer: 5
+Enter an integer: 65
+Enter an integer: 89
+Enter an integer: 74
+Enter an integer: 45
+Enter an integer: 33
+Enter an integer: 65
+Enter an integer: 33
+Enter an integer: 15
+Enter an integer: 48
+Enter an integer: 49
+Enter an integer: 21
+Enter an integer: 88
+Enter an integer: 69
+Enter an integer: 15
+Enter an integer: 74
+Enter an integer: 82
+Enter an integer: 51
+Enter an integer: 22
+Enter an integer: 30
+
+Unique values in the vector are:
+21, 65, 89, 74, 45, 33, 15, 48, 49, 88, 69, 82, 51, 22, 30,

@@ -1,0 +1,18 @@
+Enter the persons first name, last name and zip: Kush
+Gandhi
+60074
+Kush    Gandhi
+60074
+
+John    Smith
+60101
+
+Enter the persons first name, last name and zip: David
+Smith
+60043
+David   Smith
+60043
+
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 20620) exited with code 0.
+Press any key to close this window . . .

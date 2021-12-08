@@ -1,0 +1,5 @@
+Please enter two intgers: 2 3
+The product of 2 and 3 is: 6
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 15156) exited with code 0.
+Press any key to close this window . . .

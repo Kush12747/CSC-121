@@ -1,0 +1,25 @@
+Enter a phone number(Q to quit): 213-2121
+Phone Number Dialed: 213-2121
+
+Enter a phone number(Q to quit): asc-dfer
+Phone Number Dialed: 272-3337
+
+Enter a phone number(Q to quit): 555-resw
+Error- Phone number cannot begin with 555
+
+Enter a phone number(Q to quit): 098-8765
+Error- Phone number cannot begin with 0
+
+Enter a phone number(Q to quit): 12345678
+Error- Hyphen is not in the correct position
+
+Enter a phone number(Q to quit): @34-*uyt
+Error- An invalid character was entered
+
+Enter a phone number(Q to quit): Q
+Phone Number Dialed: Q34-*uyt
+
+Press any key to continue . . .
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 8644) exited with code 0.
+Press any key to close this window . . .

@@ -1,0 +1,16 @@
+Please enter a value for score: 88
+Here is the value you entered for score: 88
+
+ Score is Even!
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 7976) exited with code 0.
+Press any key to close this window . . .
+
+
+Please enter a value for score: 87
+Here is the value you entered for score: 87
+
+ Score is odd!
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 18696) exited with code 0.
+Press any key to close this window . . .

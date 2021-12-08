@@ -1,0 +1,8 @@
+Please enter the first number: 5
+Please enter the second number: 6
+Here is the sum of the numbers in Num1: 11
+Here is the diff of the numbers in Num2: -1
+Here is the number multiplied by itself: 36
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 2480) exited with code 0.
+Press any key to close this window . . .

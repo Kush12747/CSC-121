@@ -1,0 +1,42 @@
+Please enter a value for score: 100
+Here is the value you entered for score: 100
+Letter Grade is A
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 5372) exited with code 0.
+Press any key to close this window . . .
+
+
+Please enter a value for score: 85
+Here is the value you entered for score: 85
+Letter Grade is B
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 19960) exited with code 0.
+Press any key to close this window . . .
+
+
+Please enter a value for score: 72
+Here is the value you entered for score: 72
+Letter Grade is C
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 15632) exited with code 0.
+Press any key to close this window . . .
+
+
+Please enter a value for score: 66
+Here is the value you entered for score: 66
+Letter Grade is D
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 16216) exited with code 0.
+Press any key to close this window . . .
+
+
+Please enter a value for score: 35
+Here is the value you entered for score: 35
+Letter Grade is F
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 8692) exited with code 0.
+Press any key to close this window . . .
+
+
+
+

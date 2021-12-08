@@ -1,0 +1,36 @@
+Value of i is: 1
+Value of i is: 2
+Value of i is: 3
+Value of i is: 4
+Value of i is: 5
+Value of i is: 6
+Value of i is: 7
+Value of i is: 8
+Value of i is: 9
+Value of i is: 10
+
+Value of j is: 1
+Value of j is: 2
+Value of j is: 3
+Value of j is: 4
+Value of j is: 5
+Value of j is: 6
+Value of j is: 7
+Value of j is: 8
+Value of j is: 9
+Value of j is: 10
+
+Value of k is: 1
+Value of k is: 2
+Value of k is: 3
+Value of k is: 4
+Value of k is: 5
+Value of k is: 6
+Value of k is: 7
+Value of k is: 8
+Value of k is: 9
+Value of k is: 10
+
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 3128) exited with code 0.
+Press any key to close this window . . .

@@ -1,0 +1,6 @@
+Please enter the amount of CD: 100
+At the end of one year the new balance is: 103.50
+
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 20340) exited with code 0.
+Press any key to close this window . . .

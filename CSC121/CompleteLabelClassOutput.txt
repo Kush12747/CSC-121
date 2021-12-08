@@ -1,0 +1,26 @@
+Please enter the label information:
+Bob
+Roman
+55555
+Bob     Roman
+55555
+
+Kush    Gandhi
+60074
+
+Ben     Noble
+99999
+Please enter the label information:
+Nate
+Robison
+44444
+Nate    Robison
+44444
+
+
+ object destroyed
+
+ object destroyed
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 25832) exited with code 0.
+Press any key to close this window . . .

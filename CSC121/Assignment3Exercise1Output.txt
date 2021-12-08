@@ -1,0 +1,13 @@
+        Please enter a year: 2020
+        2020 is a leap year.
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 13020) exited with code 0.
+Press any key to close this window . . .
+
+
+
+        Please enter a year: 2021
+        2021 is not a leap year.
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 13572) exited with code 0.
+Press any key to close this window . . .

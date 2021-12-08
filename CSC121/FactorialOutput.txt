@@ -1,0 +1,12 @@
+Please enter the number for the factorial 5
+The factorial of 5 is 120
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 12336) exited with code 0.
+Press any key to close this window . . .
+
+
+Please enter the number for the factorial 7
+The factorial of 7 is 5040
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 15980) exited with code 0.
+Press any key to close this window . . .

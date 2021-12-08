@@ -1,0 +1,18 @@
+Please enter the number: 85
+Do you have another number? y
+Please enter the number: 25
+Do you have another number? y
+Please enter the number: 98
+Do you have another number? y
+Please enter the number: 65
+Do you have another number? y
+Please enter the number: 45
+Do you have another number? n
+
+
+Average of the number is: 63.6
+Largest of the numbers is: 98
+Smaller of the number is: 25
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 15316) exited with code 0.
+Press any key to close this window . . .

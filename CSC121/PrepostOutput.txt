@@ -1,0 +1,12 @@
+31
+31
+33
+32
+32
+31
+70
+23.3333
+23.3333
+
+C:\Users\kushg\source\repos\Test1\Debug\Projects.exe (process 10672) exited with code 0.
+Press any key to close this window . . .
